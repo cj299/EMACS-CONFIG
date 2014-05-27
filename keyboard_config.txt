@@ -1,0 +1,21 @@
+sleifeei@163.com
+qq:512854135
+
+keyboard:hhkb
+os : mac osx ,ubuntu 
+
+Con  , ^ ---- Control
+Tab  ,   ---- Tab 
+Cap  ,   ---- CapsLock
+Del  ,   ---- Delete
+Ret  ,   ---- Return
+Spa  ,   ---- Space
+Com  , # ---- Command        (Com_R  , Com_L,#_R,#_L)
+Alt  , 	 ---- Option / alt   (Alt_R  , Alt_L )
+Shi  ,   ---- Shift          (Shi_R  , Shi_L )
+     
+#   + Spa		切换输入源 
+Con + Alt + L		锁定屏幕
+#   + Tab   		切换应用程序
+#   + W 		关闭当前窗口
+#   + M     		最小化窗口
